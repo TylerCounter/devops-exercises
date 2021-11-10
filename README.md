@@ -4195,7 +4195,7 @@ A process is a running program. A program is one or more instructions and the pr
 
 <details>
 <summary>If you had to design an API for processes in an operating system, what would this API look like?</summary><br><b>
-
+ferhat gül
 It would support the following:
 
 * Create - allow to create new processes
