@@ -80,6 +80,7 @@
 <!-- ALL-TOPICS-LIST:END -->
 
 ## DevOps
+## Aydin T
 
 <details>
 <summary>What is DevOps?</summary><br><b>
